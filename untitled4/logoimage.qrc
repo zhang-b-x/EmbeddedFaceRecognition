@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logoImage/uiuse.jpg</file>
+    </qresource>
+</RCC>

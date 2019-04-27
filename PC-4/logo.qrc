@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo/b1.ico</file>
+        <file>logo/b2.ico</file>
+        <file>logo/b3.ico</file>
+        <file>logo/b4.ico</file>
+        <file>logo/b5.ico</file>
+        <file>logo/b6.ico</file>
+        <file>logo/b7.ico</file>
+        <file>logo/b8.ico</file>
+        <file>logo/b9.ico</file>
+        <file>logo/b10.ico</file>
+        <file>logo/b11.ico</file>
+        <file>logo/b12.ico</file>
+        <file>logo/b13.ico</file>
+        <file>logo/b14.ico</file>
+        <file>logo/b15.ico</file>
+        <file>logo/b16.ico</file>
+        <file>logo/f1.ico</file>
+        <file>logo/f2.ico</file>
+        <file>logo/f3.ico</file>
+        <file>logo/f4.ico</file>
+        <file>logo/f5.ico</file>
+        <file>logo/f6.ico</file>
+        <file>logo/f7.ico</file>
+        <file>logo/f8.ico</file>
+        <file>logo/f9.ico</file>
+        <file>logo/f10.ico</file>
+        <file>logo/f11.ico</file>
+        <file>logo/f12.ico</file>
+        <file>logo/f13.ico</file>
+        <file>logo/f14.ico</file>
+        <file>logo/uiuse.jpg</file>
+        <file>logo/uiuse1.png</file>
+        <file>logo/uiuse2.png</file>
+        <file>logo/f10.png</file>
+    </qresource>
+</RCC>
